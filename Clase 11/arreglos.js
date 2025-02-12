@@ -28,6 +28,7 @@ console.log(personas)
 
 personas.pop(); // El metodo "pop()" Elimina el ultimo elemento del arreglo
 
+
 console.log(personas);
 
 
