@@ -31,3 +31,7 @@ let i = 1;
 for(i ; i <=10; inicio++){
     console.log(i);
 }
+
+
+
+
